@@ -23,7 +23,7 @@ It is a personal website where I can share my achievements and experiences with 
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 - **Deployment**: GitHub Pages
 
 ## Screenshots
