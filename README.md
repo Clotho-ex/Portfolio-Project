@@ -31,5 +31,5 @@ It is a personal website where I can share my achievements and experiences with 
 -Here are some screenshots of the portfolio:
 ![Screenshot](images/screenshot.png)
 
-#Contact
+## Contact
 - Feel free to contact me through the contact form on my portfolio website or connect with me on [LinkedIn](https://www.linkedin.com/in/clotho/).
